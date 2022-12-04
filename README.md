@@ -14,3 +14,10 @@ npm install express
 npm install mongodb
 npm install promise
 ```
+ ## FUNCTIONS OF EACH FILES 
+1. **VIEWS**:-It has admin and user codes
+     * user file has login,signup,view lists, add to cart options code
+     * admin file has add,edit and view products
+>NOTE: **As it is my first experience of writing a readme file,it is very difficult to explai everythin now.So i am stoppin here**
+
+## THANKYOU
